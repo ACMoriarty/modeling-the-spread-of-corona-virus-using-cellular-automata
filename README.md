@@ -4,5 +4,5 @@ The recent outbreak of corona virus has sparked widespread interest. In this wor
 # To Run
 On cmd, with python installed, run the command:
 
-python api.py
+<code>python api.py</code>
 
