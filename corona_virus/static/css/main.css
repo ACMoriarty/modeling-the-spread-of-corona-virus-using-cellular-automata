@@ -1,0 +1,17 @@
+h1 {
+    text-transform: uppercase;
+    color: brown;
+    text-shadow: 2px 1px black;
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 10px;
+}
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url('world_map.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+  }
